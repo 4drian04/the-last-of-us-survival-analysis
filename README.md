@@ -17,6 +17,7 @@ El objetivo principal es **analizar los datos** y **predecir si una persona sobr
 
 ## 📁 Estructura del proyecto
 
+```
 📦 the-last-of-us-survival-analysis
 │
 ├── data/
@@ -31,6 +32,8 @@ El objetivo principal es **analizar los datos** y **predecir si una persona sobr
 ├── .python-version
 │
 └── README.md
+```
+
 
 
 ---

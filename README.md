@@ -20,10 +20,9 @@ El objetivo principal es **analizar los datos** y **predecir si una persona sobr
 📦 the-last-of-us-survival-analysis
 │
 ├── data/
-│ └── dataset_supervivientes.csv
+│   └── dataset_supervivientes.csv
 │
 ├── analisis_datos.ipynb
-│
 │
 ├── main.py
 │

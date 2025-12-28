@@ -93,13 +93,7 @@ Este proyecto utiliza **uv** para la gestión de dependencias y versiones de Pyt
 - `uv.lock`: bloqueo de versiones exactas de las librerías.
 - `.python-version`: versión de Python utilizada en el proyecto.
 
-Para sincronizar el entorno y las dependencias, ejecuta:
-
-  ```bash
-  uv sync
-
-
-## 🚀 Ejecución del proyecto
+ ## 🚀 Ejecución del proyecto
 
 1. Clonar el repositorio:
 

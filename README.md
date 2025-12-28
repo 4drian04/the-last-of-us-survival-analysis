@@ -96,22 +96,18 @@ Este proyecto utiliza **uv** para la gestión de dependencias y versiones de Pyt
  ## 🚀 Ejecución del proyecto
 
 1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/4drian04/the-last-of-us-survival-analysis.git
+  
+2. Sincronizar el entorno y las dependencias con **uv**:
+   ```bash
+   uv sync
+  
+3. Entrenar el modelo y realizar predicciones:
+   ```bash
+   uv run python main.py
 
-  ```bash
-  git clone https://github.com/4drian04/the-last-of-us-survival-analysis.git
-
-
-2. Sincronizar el entorno y las dependencias con uv:
-
-  ```bash
-  uv sync
-
-
-3. Entrena el modelo y hacer predicciones con datos predefinidos en el código:
-
-  ```bash
-  uv run python main.py
-
+   
 ## 📈 Resultados
 
 El modelo permite predecir si un superviviente tiene probabilidades de sobrevivir, identificando qué características influyen más en la supervivencia dentro de un entorno extremo.

@@ -95,28 +95,28 @@ Este proyecto utiliza **uv** para la gestión de dependencias y versiones de Pyt
 
 Para sincronizar el entorno y las dependencias, ejecuta:
 
-```bash
-uv sync
+  ```bash
+  uv sync
 
---
 
 ## 🚀 Ejecución del proyecto
 
 1. Clonar el repositorio:
-```bash
-git clone https://github.com/4drian04/the-last-of-us-survival-analysis.git
 
---
+  ```bash
+  git clone https://github.com/4drian04/the-last-of-us-survival-analysis.git
+
 
 2. Sincronizar el entorno y las dependencias con uv:
-```bash
-uv sync
 
---
+  ```bash
+  uv sync
+
 
 3. Entrena el modelo y hacer predicciones con datos predefinidos en el código:
-```bash
-uv run python main.py
+
+  ```bash
+  uv run python main.py
 
 ## 📈 Resultados
 

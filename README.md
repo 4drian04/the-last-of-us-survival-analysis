@@ -79,22 +79,27 @@ En el notebook se realiza:
 
 - Personas por facción
   <img width="849" height="558" alt="personasPorFaccion" src="https://github.com/user-attachments/assets/8e93503f-cbe3-45a1-b934-9ee002cafcd5" />
+
   Vemos en primer lugar, una distribución de personas por las distintas facciones, es una información que nos puede resultar útil para tener una visión general
 
 - Supervivencia media por facción
   <img width="784" height="484" alt="supervivenciaMediaPorFaccion" src="https://github.com/user-attachments/assets/5d886a76-8bf1-4667-815d-34d9aba87f7a" />
+
   Vemos que los que más sobreviven son los que son inmunes (ya que no se pueden infectar), y luego le siguen los luciernaga. Sin embargo, podemos ver que los inmunes no tienen un 100% de supervivencia, esto se     puede deber a que hayan muerto por otros seres humanos y no infectados
 
 - Supervivencia media por nivel de infección de zona
   <img width="784" height="484" alt="SupervivenciaMediaPorInfeccion" src="https://github.com/user-attachments/assets/05f45ad3-ae98-4406-8d72-d127cee74c35" />
+
   Vemos que, como es normal, en los niveles de infección menores sobreviven más gente, aunque podemos ver que en las zonas de nivel 5 y 8 han sobrevido algunas personas
 
 - Supervivencia según el nivel de combate
   <img width="699" height="480" alt="SupervivenicaSegunNivelCombate" src="https://github.com/user-attachments/assets/b4df0d3b-3501-42f7-aed9-58cf2f7d0faa" />
+
   Por otro lado, en este gráfica observamos una tendencia ascendente, en el que, cuanto mayor sea el nivel de combate, (salvo excepciones como el nivel 2 con 3, y 5 con el 6 y 7) mayor es la tasa promedio de       supervivencia
 
 - Supervivencia según sigilo y combate
   <img width="673" height="556" alt="SupervivenciaSigiloCombate" src="https://github.com/user-attachments/assets/cd40a3ec-1c3d-4e57-87f6-9abc4f8fd989" />
+
   Por último, podemos ver una comparación con el nivel de combate, el nivel de sigilo y la tasa de supervivencia. Podemos ver que hay una correlación positiva entre ellas, cuanto mayor nivel de sigilo    y mayor   nivel de combate, la tasa de promedio de supervivencia tiende a subir, por lo que podemos cocluir que el equilibrio entre agresividad y discreción es clave en entornos hostiles.
 
 ---
